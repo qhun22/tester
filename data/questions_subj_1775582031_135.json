@@ -1,0 +1,261 @@
+[
+    {
+        "id": "1775582543753_x1ix4",
+        "text": "Những hoạt động nào thuộc bước 5 – Đánh giá và thay đổi trong quy trình xây dựng văn hoá doanh nghiệp?",
+        "answers": [
+            "Đo lường bằng các chỉ số ETR, eNPS, ESI",
+            "Phổ biến quy chế văn hoá doanh nghiệp",
+            "Thành lập bộ phận phụ trách văn hoá",
+            "Thực hiện khảo sát định kỳ để lấy ý kiến nhân viên"
+        ],
+        "correct": [
+            0,
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582522535_n1t5b",
+        "text": "Mục đích của việc đưa các giá trị văn hóa vào quy trình tuyển dụng là gì?",
+        "answers": [
+            "Để đảm bảo ứng viên phù hợp với các giá trị và văn hóa doanh nghiệp",
+            "Để chọn ứng viên có kỹ năng phù hợp với công việc",
+            "Để giảm thiểu thời gian tuyển dụng",
+            "Để chọn ứng viên có kiến thức tốt về sản phẩm của công ty"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582508157_zf151",
+        "text": "Sapporo đã xác định giá trị cốt lõi nào làm \"DNA\" của công ty?",
+        "answers": [
+            "Tôn trọng và phát triển",
+            "Niềm đam mê và trung thực",
+            "Đổi mới và tôn trọng",
+            "Hương vị tuyệt vời, chất lượng và tinh thần tiên phong"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582489635_craqb",
+        "text": "Giá trị cốt lõi của một doanh nghiệp có vai trò như thế nào trong tổ chức?",
+        "answers": [
+            "Là nền tảng hình thành bản sắc và uy tín của doanh nghiệp",
+            "Là kim chỉ nam định hướng tư duy và hành động cho các thành viên",
+            "Là yếu tố tạm thời được thay đổi liên tục theo thị trường",
+            "Là công cụ quảng cáo nhằm thu hút khách hàng"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582465298_ifsfo",
+        "text": "Các giá trị văn hóa gắn liền với hoạt động kinh doanh hàng ngày có ý nghĩa gì?",
+        "answers": [
+            "Tạo ra sự thống nhất giữa các giá trị văn hóa và các hoạt động thực tiễn trong doanh nghiệp",
+            "Tạo điều kiện để lãnh đạo đưa ra quyết định nhanh chóng hơn",
+            "Giúp cải thiện mối quan hệ giữa các phòng ban",
+            "Giúp nhân viên làm việc hiệu quả hơn mà không cần đào tạo"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582354944_b4ngj",
+        "text": "Để giúp nhân viên hiểu và hành xử đúng theo các giá trị cốt lõi, doanh nghiệp cần thực hiện những nội dung nào sau đây?",
+        "answers": [
+            "Đưa ra những hành vi cụ thể thể hiện giá trị đó trong công việc",
+            "Chỉ nêu tên các giá trị cốt lõi trong tài liệu văn hóa",
+            "Mô tả chi tiết ý nghĩa của từng giá trị trong ngữ cảnh doanh nghiệp",
+            "Giao quyền cho nhân viên tự xác định giá trị cá nhân"
+        ],
+        "correct": [
+            2,
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582330699_c9th3",
+        "type": "drag_drop",
+        "text": "Kéo thả các bước tương ứng với nội dung mô tả sau:",
+        "options": [
+            "Bước 3 – Lên kế hoạch thu hẹp khoảng cách",
+            "Bước 2 – Đánh giá văn hoá hiện tại",
+            "Bước 4 – Triển khai văn hoá doanh nghiệp",
+            "Bước 5 – Đánh giá và thay đổi",
+            "Bước 1 – Xác định giá trị cốt lõi"
+        ],
+        "statements": [
+            "Xây dựng kế hoạch thu hẹp khoảng cách giữa mong muốn và thực tế",
+            "Xem xét những giá trị hiện có để phát huy hoặc điều chỉnh",
+            "Thành lập đơn vị phụ trách, truyền đạt, duy trì văn hoá",
+            "Đo lường, khảo sát và điều chỉnh các giá trị văn hoá",
+            "Xác định hệ thống niềm tin thiết yếu, sứ mệnh, tầm nhìn"
+        ],
+        "correct_matches": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "1775582242209_gh65s",
+        "text": "Xác định các mệnh đề sau đúng hay sai?\n\nCách hình thành triết lý kinh doanh từ kinh nghiệm là phương pháp phổ biến ở Mỹ.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775582234859_gf7zp",
+        "text": "Xác định các mệnh đề sau đúng hay sai?\n\nHP mất khoảng 20 năm để hoàn thiện văn bản triết lý kinh doanh của mình.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775582226629_7691h",
+        "text": "Xác định các mệnh đề sau đúng hay sai?\n\nCách xây dựng triết lý theo “Vòng chân trời” thường xuất phát từ Ban lãnh đạo cao cấp.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775582219437_8lsxa",
+        "text": "Xác định các mệnh đề sau đúng hay sai?\n\nTriết lý kinh doanh có thể được hình thành tự nhiên trong quá trình hoạt động hoặc được xây dựng có kế hoạch.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775582208418_xsr3f",
+        "text": "Sứ mệnh nào phù hợp cho công ty hoạt động trong lĩnh vực sản xuất để thể hiện tầm nhìn và trách nhiệm của công ty đối với cộng đồng và môi trường?",
+        "answers": [
+            "Cung cấp điện năng với chất lượng và dịch vụ ngày càng tốt hơn, đảm bảo trách nhiệm với môi trường và cộng đồng",
+            "Cung cấp điện với giá thành rẻ nhất",
+            "Tăng cường xây đập thủy điện để đảm bảo sản lượng điện",
+            "Cung cấp điện ổn định cho khách hàng"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582190103_p00so",
+        "text": "“Xác định các giá trị cốt lõi làm nền văn hoá doanh nghiệp” thuộc bước nào trong quy trình xây dựng văn hóa doanh nghiệp?",
+        "answers": [
+            "Bước 3",
+            "Bước 2",
+            "Bước 1",
+            "Bước 4"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582174885_ydvf9",
+        "text": "Cấp dưới cần có hành vi ứng xử nào để duy trì mối quan hệ tốt với cấp trên?",
+        "answers": [
+            "Không thừa nhận quyền lực của cấp trên",
+            "Không đề cao thứ bậc trong giao tiếp",
+            "Luôn cố gắng đưa ra các quyết định của riêng mình",
+            "Tin tưởng, tôn trọng và thực hiện nghiêm túc các quyết định của cấp trên"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582158789_ulaxd",
+        "text": "Yếu tố quyết định trong việc xây dựng mối quan hệ đồng nghiệp vững chắc trong doanh nghiệp là gì?",
+        "answers": [
+            "Các cá nhân phải làm việc một mình để nâng cao hiệu quả",
+            "Sự phân biệt giữa các vị trí trong doanh nghiệp",
+            "Thái độ cởi mở và hợp tác giữa các thành viên",
+            "Các quyết định của cấp trên"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582143722_6ipmy",
+        "text": "Cách tiếp cận nào mô tả quá trình xây dựng triết lý kinh doanh của một doanh nghiệp hình thành dần từ kinh nghiệm kinh doanh?",
+        "answers": [
+            "Xây dựng theo chiến lược từ các chuyên gia tư vấn",
+            "Xây dựng dựa trên các cuộc thảo luận tập thể",
+            "Xây dựng từ thực tiễn hoạt động và kinh nghiệm quản lý",
+            "Xây dựng theo kế hoạch của Ban lãnh đạo"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582123947_1goto",
+        "text": "Thông điệp nào dưới đây được mở rộng từ các giá trị cốt lõi của Heineken?",
+        "answers": [
+            "“Mang sự thích thú đến cho cuộc sống; Tôn trọng xã hội và thế giới; Niềm đam mê cho chất lượng”",
+            "“Sự thích thú trong mọi giây phút”",
+            "“Sự tiên phong trong mọi sản phẩm mới”",
+            "“Chúng tôi cam kết mang đến giá trị cao nhất cho cổ đông”"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582105156_j6f6f",
+        "text": "[Điền từ vào chỗ trống] Một trong những nguyên tắc quan trọng giúp nhà lãnh đạo xây dựng chuẩn mực hành vi với cấp dưới là phải luôn gương mẫu và ______ trong mọi hoạt động, nói và làm phải nhất quán, không đùn đẩy trách nhiệm.",
+        "answers": [
+            "Tuân thủ mệnh lệnh cấp trên",
+            "Trung thực tuyệt đối",
+            "Hướng dẫn chi tiết nhân viên",
+            "Dám chịu trách nhiệm"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    }
+]

@@ -1,0 +1,339 @@
+[
+    {
+        "id": "1775579427839_sqndm",
+        "type": "drag_drop",
+        "text": "Kéo – thả để ghép đúng biểu trưng trực quan với đặc điểm nhận biết của nó:",
+        "options": [
+            "Ngôn ngữ, cách ăn mặc, biểu hiện cảm xúc",
+            "Logo, slogan, tài liệu quảng cáo",
+            "Lễ nghi, lễ hội hàng năm",
+            "Kiến trúc, cách bài trí, công nghệ"
+        ],
+        "statements": [
+            "Thể hiện văn hóa giao tiếp và chuẩn mực hành vi trong nội bộ",
+            "Giúp nhận diện thương hiệu và truyền tải giá trị cốt lõi của doanh nghiệp",
+            "Thể hiện sự gắn kết, truyền thống và tinh thần tổ chức của doanh nghiệp",
+            "Thể hiện tính thẩm mỹ, phong cách làm việc và đặc điểm ngành nghề"
+        ],
+        "correct_matches": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "1775579344155_pvet3",
+        "text": "Hãy xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nCác biểu trưng trực quan khó nhận biết ngay khi tiếp xúc với doanh nghiệp.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775579337635_bjoj2",
+        "text": "Hãy xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nBiểu trưng trực quan có thể thay đổi theo đặc điểm ngành nghề kinh doanh và quan điểm lãnh đạo.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775579331063_pmkn7",
+        "text": "Hãy xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nBiểu trưng trực quan phản ánh đầy đủ toàn bộ giá trị văn hóa doanh nghiệp.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775579320921_5qvt9",
+        "text": "Hãy xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nBiểu trưng trực quan bao gồm kiến trúc, cách bài trí, đồng phục và cách biểu hiện cảm xúc của nhân viên.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775579225785_ru2zp",
+        "text": "Xác định đúng hoặc sai cho các mệnh đề sau về văn hóa doanh nghiệp dạng gia đình:\n\nVăn hóa doanh nghiệp dạng gia đình thường xuất hiện ở các doanh nghiệp hướng đến đổi mới sáng tạo và tinh thần dân chủ cá nhân.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775579208335_5hatn",
+        "text": "Xác định đúng hoặc sai cho các mệnh đề sau về văn hóa doanh nghiệp dạng gia đình:\n\nVăn hóa doanh nghiệp dạng gia đình đề cao mối quan hệ cá nhân, coi trọng sự gắn bó và vai trò dẫn dắt của người lãnh đạo.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775579183546_8a3hf",
+        "text": "Doanh nghiệp ít quan tâm đến con người nhưng tập trung cao vào thành tích thuộc dạng văn hóa nào?",
+        "answers": [
+            "Văn hóa kiểu lãnh đạm",
+            "Văn hóa hợp nhất",
+            "Văn hóa kiểu chăm sóc",
+            "Văn hóa kiểu đòi hỏi nhiều"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775579076248_h0irq",
+        "type": "drag_drop",
+        "text": "Kéo – thả tên loại hình văn hóa doanh nghiệp phù hợp với mô tả sau:",
+        "options": [
+            "Văn hóa nguyên tắc",
+            "Văn hóa đồng đội",
+            "Văn hóa quyền hạn",
+            "Văn hóa sáng tạo",
+            "Văn hóa bánh chưng"
+        ],
+        "statements": [
+            "Doanh nghiệp quản lý dựa vào quy trình và hệ thống, đề cao hiệu quả công việc và phối hợp tổ chức.",
+            "Môi trường làm việc coi trọng sự hợp tác, nhân viên cảm thấy mình là một phần của tầm nhìn chung.",
+            "Quyết định được đưa ra dựa trên quyền lực cá nhân của người lãnh đạo, thường xuất hiện trong các tổ chức có tính kỷ luật cao.",
+            "Nhân viên được khuyến khích sáng tạo, làm việc tự giác trong mô hình “phẳng, mở và sáng tạo”."
+        ],
+        "correct_matches": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "1775578360195_d5z3r",
+        "text": "Đâu là hai đặc trưng của văn hóa quyền hạn trong doanh nghiệp?",
+        "answers": [
+            "Tập trung vào sự hợp tác, chia sẻ trách nhiệm",
+            "Ưu tiên phát huy tính sáng tạo cá nhân của nhân viên",
+            "Dựa vào quyền lực cá nhân của người đứng đầu",
+            "Các quyết định chủ yếu do lãnh đạo đưa ra"
+        ],
+        "correct": [
+            2,
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775578320963_zs938",
+        "text": "Những niềm tin, nhận thức và suy nghĩ có tính vô thức, được mọi thành viên trong doanh nghiệp mặc nhiên thừa nhận, được gọi là ________ của văn hóa doanh nghiệp.",
+        "answers": [
+            "Những nguyên tắc hoạt động",
+            "Những chuẩn mực đạo đức",
+            "Những giá trị công bố",
+            "Những quan niệm chung"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775578234515_se87e",
+        "text": "Xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nBiểu trưng trực quan bao gồm kiến trúc, cách bài trí, đồng phục và cách biểu hiện cảm xúc của nhân viên.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775578225769_o0i1d",
+        "text": "Xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nBiểu trưng trực quan phản ánh đầy đủ toàn bộ giá trị văn hóa doanh nghiệp.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775578215863_r327q",
+        "text": "Xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nCác biểu trưng trực quan khó nhận biết ngay khi tiếp xúc với doanh nghiệp.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775578180111_zol2j",
+        "text": "Xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nBiểu trưng trực quan có thể thay đổi theo đặc điểm ngành nghề kinh doanh và quan điểm lãnh đạo.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775577801842_3c89k",
+        "text": "Các biểu trưng phi trực quan của văn hóa doanh nghiệp bao gồm những yếu tố nào? (chọn 2 đáp án đúng)",
+        "answers": [
+            "Logo và khẩu hiệu doanh nghiệp",
+            "Những biểu tượng hữu hình",
+            "Những quan niệm chung",
+            "Những giá trị được chấp nhận"
+        ],
+        "correct": [
+            2,
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775577746025_8ryxl",
+        "text": "Điều gì khiến văn hóa kiểu lãnh đạm ít được duy trì trong thời đại kinh tế 4.0?",
+        "answers": [
+            "Vì lợi ích cá nhân không còn được xem trọng",
+            "Vì văn hóa này không tạo ra hiệu quả về thành tích",
+            "Vì hiện nay các doanh nghiệp chú trọng hơn đến con người và tính bền vững",
+            "Vì văn hóa này đòi hỏi chi phí vận hành cao"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775576951424_y1jzu",
+        "text": "Chức năng của những giá trị được chấp nhận trong doanh nghiệp là gì?",
+        "answers": [
+            "Định hướng cách ứng xử cho nhân viên mới",
+            "Hướng dẫn nhân viên cách đối phó với các tình huống cơ bản",
+            "Cả A và B đều đúng",
+            "Không có đáp án đúng"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775577051986_dsugo",
+        "text": "Các biểu trưng trực quan của văn hóa doanh nghiệp dễ thay đổi là do yếu tố nào?",
+        "answers": [
+            "Chúng chịu ảnh hưởng từ các yếu tố bên ngoài",
+            "Chúng không phản ánh đúng thực tế hoạt động của doanh nghiệp",
+            "Chúng phụ thuộc vào ý thức hệ của các lãnh đạo",
+            "Chúng dễ thay đổi theo thời gian và xu hướng xã hội"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775577356429_edqgd",
+        "text": "Khi biểu trưng trực quan của văn hóa doanh nghiệp thay đổi, điều đó có thể phản ánh điều gì?",
+        "answers": [
+            "Doanh nghiệp thích nghi với thay đổi môi trường kinh doanh",
+            "Doanh nghiệp không còn quan tâm đến hình thức bên ngoài",
+            "Doanh nghiệp đang tìm cách giữ vững các giá trị truyền thống",
+            "Doanh nghiệp đang giảm thiểu chi phí"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775577393699_75r0q",
+        "text": "Tại sao những quan niệm chung trong văn hóa doanh nghiệp lại khó thay đổi?",
+        "answers": [
+            "Vì chúng không ảnh hưởng đến hành vi của nhân viên",
+            "Vì chúng chỉ phản ánh các luật lệ nội bộ doanh nghiệp",
+            "Vì chúng được xây dựng qua thời gian, trải qua thử thách và thực tiễn",
+            "Vì chúng chỉ là các quy định hành chính của doanh nghiệp"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775577444401_rlark",
+        "text": "Văn hóa nguyên tắc trong doanh nghiệp tập trung quản lý dựa vào yếu tố nào?",
+        "answers": [
+            "Công việc và quy trình",
+            "Phẩm chất cá nhân",
+            "Quyền lực cá nhân lãnh đạo",
+            "Sự sáng tạo của nhân viên"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775577532033_2ov0s",
+        "text": "Vì sao văn hóa Eiffel lại được gọi là \"tháp\"?",
+        "answers": [
+            "Vì nhân viên phải vượt qua nhiều \"nấc thang\" để thăng tiến",
+            "Vì nó nhấn mạnh vào việc phân công theo cấp bậc",
+            "Vì tất cả các công ty đều phải có cấu trúc giống nhau",
+            "Vì hình thức công ty có dạng hình tháp thực tế"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775577597780_s1s5h",
+        "text": "Tại sao văn hóa kiểu chăm sóc thường chỉ tồn tại trên lý thuyết?",
+        "answers": [
+            "Vì doanh nghiệp cần quan tâm đến hiệu quả và thành tích để duy trì hoạt động",
+            "Vì loại văn hóa này đòi hỏi chi phí cao",
+            "Vì văn hóa này không phù hợp với nền kinh tế hiện đại",
+            "Vì các doanh nghiệp ưu tiên lợi ích cá nhân hơn"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    }
+]

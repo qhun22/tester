@@ -1,0 +1,362 @@
+[
+    {
+        "id": "1775583301681_a2kz9",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nNhân viên cảm thấy an toàn sẽ phục vụ khách hàng tốt hơn.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583294437_hiebp",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nSự tin tưởng của lãnh đạo giúp nhân viên chủ động giải quyết vấn đề.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583288153_z8wp9",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nVăn hoá định hướng khách hàng cần gắn với động lực nội tại của nhân viên.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583278679_a4zpv",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nDoanh nghiệp càng đặt nhiều quy định cứng nhắc càng tạo linh hoạt.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583271689_d71t3",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nVăn hoá độc đoán là nền tảng của truyền thông nội bộ hai chiều.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583262017_dfbjb",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nTruyền thông nội bộ giúp hình thành và duy trì văn hoá doanh nghiệp.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583255477_75ehv",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nTruyền thông nội bộ chỉ có tác dụng lan truyền thông tin một chiều từ lãnh đạo.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583247677_3gskg",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nVăn hoá đồng thuận tạo điều kiện cho truyền thông nội bộ cân xứng phát triển.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583234249_nesi2",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nQuan tâm đến văn hoá doanh nghiệp là điều không bắt buộc với mọi tổ chức.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583226723_yet4a",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nVăn hoá doanh nghiệp có thể sản sinh lợi ích hữu hình cho doanh nghiệp.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583217337_jmx2n",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nVăn hoá doanh nghiệp chỉ có tác động bên ngoài, không ảnh hưởng đến nội bộ tổ chức.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583208546_35dnz",
+        "text": "Xác định đúng\/sai cho các mệnh đề sau:\n\nKhông có thương hiệu mạnh nào thiếu nền tảng văn hoá doanh nghiệp vững chắc.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775583196507_4v4bi",
+        "text": "Doanh nghiệp có văn hoá lấy khách hàng làm trung tâm thường đạt hiệu quả cao hơn vì lý do nào sau đây?",
+        "answers": [
+            "Do cạnh tranh gay gắt giữa các bộ phận nội bộ để nâng cao năng suất",
+            "Do xây dựng được cộng đồng khách hàng trung thành, góp phần tăng doanh thu lâu dài",
+            "Do tập trung vào việc mở rộng thị phần và giảm chi phí sản xuất",
+            "Do coi sự hài lòng của khách hàng là một phần trong đánh giá hiệu suất làm việc"
+        ],
+        "correct": [
+            0,
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775583174846_8fcxt",
+        "text": "Vì sao doanh nghiệp cần đo lường sự hài lòng của khách hàng?",
+        "answers": [
+            "Làm cơ sở khen thưởng nhân viên",
+            "Giúp doanh nghiệp cải thiện trải nghiệm khách hàng",
+            "Giúp đánh giá hiệu quả dịch vụ",
+            "Đảm bảo tăng chi phí hoạt động"
+        ],
+        "correct": [
+            1,
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775583150084_x1fvm",
+        "text": "Định hướng khách hàng trong văn hóa doanh nghiệp thể hiện ở những yếu tố nào sau đây?",
+        "answers": [
+            "Đặt sự hài lòng của khách hàng làm trung tâm trong mọi hoạt động",
+            "Quan tâm chủ yếu đến đối thủ cạnh tranh",
+            "Tập trung vào việc đáp ứng nhu cầu và mong muốn của khách hàng",
+            "Ưu tiên lợi ích cổ đông lên hàng đầu"
+        ],
+        "correct": [
+            0,
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775583125202_7bmh8",
+        "text": "Ở doanh nghiệp có văn hoá mạnh, hoạt động truyền thông nội bộ thường có đặc điểm gì?",
+        "answers": [
+            "Chỉ mang tính mệnh lệnh từ cấp lãnh đạo",
+            "Thúc đẩy sự gắn bó giữa nhân viên và tổ chức",
+            "Có tính hai chiều, minh bạch và đồng thuận cao",
+            "Giới hạn quyền phản hồi của nhân viên"
+        ],
+        "correct": [
+            1,
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775583102902_8albu",
+        "text": "[Điền từ thích hợp vào chỗ trống] “Môi trường lý tưởng cho trao đổi thông tin nội bộ là nơi có lòng tin, sự tham gia đồng thuận, cởi mở và _______.”",
+        "answers": [
+            "Kỷ luật",
+            "Thẳng thắn",
+            "Thận trọng",
+            "Nghiêm túc"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582969156_g5d0g",
+        "text": "Mối quan hệ giữa văn hóa doanh nghiệp và thương hiệu thể hiện ở điểm nào sau đây?",
+        "answers": [
+            "Văn hóa doanh nghiệp là hình ảnh bề nổi của thương hiệu",
+            "Thương hiệu và văn hóa có thể tách biệt nếu quản trị tốt",
+            "Văn hóa doanh nghiệp giúp gia tăng giá trị cảm xúc cho thương hiệu",
+            "Thương hiệu phản ánh văn hóa doanh nghiệp qua mọi điểm chạm với khách hàng"
+        ],
+        "correct": [
+            2,
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582947529_lvnrb",
+        "text": "Vì sao văn hóa doanh nghiệp được xem là “linh hồn” của thương hiệu?",
+        "answers": [
+            "Nó là yếu tố tạo nên sản phẩm độc đáo",
+            "Nó định hướng giá trị và tinh thần chung cho toàn doanh nghiệp",
+            "Nó giúp quảng bá hình ảnh doanh nghiệp ra bên ngoài",
+            "Nó thúc đẩy thương hiệu phát triển bền vững"
+        ],
+        "correct": [
+            1,
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582922553_xs8zw",
+        "text": "Điều gì có thể xảy ra khi văn hóa doanh nghiệp bị ảnh hưởng bởi sự cạnh tranh nội bộ quá cao?",
+        "answers": [
+            "Nhân viên sẽ tập trung vào việc chiến thắng đồng nghiệp hơn là chăm sóc khách hàng",
+            "Các nhân viên sẽ đoàn kết và giải quyết vấn đề khách hàng nhanh chóng",
+            "Nhân viên ưu tiên khách hàng và làm việc nhóm hiệu quả",
+            "Doanh nghiệp sẽ có sự cải thiện rõ rệt trong chất lượng dịch vụ khách hàng"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582858640_g0rrb",
+        "text": "Văn hóa định hướng khách hàng tác động đến chiến lược sản phẩm của doanh nghiệp như thế nào?",
+        "answers": [
+            "Sản phẩm phải được điều chỉnh dựa trên nhu cầu và mong muốn của khách hàng",
+            "Sản phẩm sẽ không cần thay đổi",
+            "Sản phẩm chỉ cần có giá thấp",
+            "Sản phẩm chỉ cần duy trì chất lượng ổn định"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582842411_6oa10",
+        "text": "Doanh nghiệp có chiến lược xây dựng văn hoá định hướng tới khách hàng cần tập trung vào yếu tố nào?",
+        "answers": [
+            "Tăng cường truyền thông quảng cáo",
+            "Xây dựng sản phẩm mới",
+            "Tăng trưởng doanh thu",
+            "Đáp ứng nhu cầu và mong muốn của khách hàng"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582827903_0txd4",
+        "text": "Chiến lược thương hiệu của Nike tập trung vào yếu tố nào để xây dựng thương hiệu mạnh và tạo sự trung thành từ khách hàng?",
+        "answers": [
+            "Khích lệ cảm xúc và niềm tin vào bản thân của khách hàng thông qua hình tượng anh hùng và các slogan truyền cảm hứng",
+            "Chỉ tập trung vào đối tượng khách hàng là vận động viên chuyên nghiệp",
+            "Xây dựng thương hiệu chỉ dựa vào chiến dịch quảng cáo truyền thống mà không sử dụng yếu tố cảm xúc",
+            "Sản phẩm thể thao chất lượng cao và quảng cáo tập trung vào tính năng"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582813178_kdveb",
+        "text": "Văn hoá doanh nghiệp vững mạnh sẽ tác động như thế nào tới mối quan hệ giữa nhân viên và công ty?",
+        "answers": [
+            "Nhân viên sẽ ít gắn bó với công ty",
+            "Nhân viên sẽ không có sự kết nối với nhau",
+            "Nhân viên sẽ ít quan tâm đến lợi ích của công ty",
+            "Nhân viên sẽ cảm thấy có trách nhiệm và tự hào khi làm việc tại công ty"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582797912_n719w",
+        "text": "Tại sao văn hóa doanh nghiệp là yếu tố quyết định sự tồn tại bền vững của doanh nghiệp?",
+        "answers": [
+            "Vì văn hóa quyết định mức độ hài lòng của khách hàng",
+            "Vì văn hóa chỉ liên quan đến các cuộc họp",
+            "Vì văn hóa giúp xây dựng một đội ngũ nhân viên trung thành và tận tâm",
+            "Vì văn hóa chỉ ảnh hưởng đến hình thức quảng cáo"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582777455_7xzwv",
+        "text": "Nhân sự trong môi trường văn hóa doanh nghiệp tốt có ảnh hưởng như thế nào đến sự phát triển thương hiệu?",
+        "answers": [
+            "Họ thể hiện tinh thần hợp tác, thân thiện và đạt hiệu quả cao trong công việc",
+            "Họ quyết định giá trị sản phẩm",
+            "Họ tạo ra các chương trình khuyến mãi hấp dẫn",
+            "Họ tạo ra sản phẩm độc đáo"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775582759153_x4317",
+        "text": "Mô hình truyền thông nội bộ nào giúp trao đổi thông tin hiệu quả giữa các cấp trong doanh nghiệp?",
+        "answers": [
+            "Truyền thông một chiều",
+            "Truyền thông cân xứng",
+            "Truyền thông nội bộ hạn chế",
+            "Truyền thông không cân xứng"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    }
+]

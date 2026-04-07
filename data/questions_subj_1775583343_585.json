@@ -1,0 +1,422 @@
+[
+    {
+        "id": "1775584329044_5eqe1",
+        "text": "Điều gì giúp Adobe nổi bật trong văn hóa đề cao vai trò cá nhân?",
+        "answers": [
+            "Tập trung vào quyền lực của lãnh đạo",
+            "Đòi hỏi nhân viên tuân thủ các chuẩn mực công việc chặt chẽ",
+            "Khuyến khích tự lập kế hoạch và hoàn thành mục tiêu mà không dùng thang điểm đánh giá",
+            "Sử dụng hệ thống đánh giá hiệu quả công việc nghiêm ngặt"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584318610_wzdfd",
+        "text": "Điều gì khiến văn hóa kiểu lãnh đạm ít được duy trì trong thời đại kinh tế 4.0?",
+        "answers": [
+            "Vì hiện nay các doanh nghiệp chú trọng hơn đến con người và tính bền vững",
+            "Vì lợi ích cá nhân không còn được xem trọng",
+            "Vì văn hóa này không tạo ra hiệu quả về thành tích",
+            "Vì văn hóa này đòi hỏi chi phí vận hành cao"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584307523_b0r30",
+        "text": "Tại sao văn hóa kiểu chăm sóc thường chỉ tồn tại trên lý thuyết?",
+        "answers": [
+            "Vì loại văn hóa này đòi hỏi chi phí cao",
+            "Vì các doanh nghiệp ưu tiên lợi ích cá nhân hơn",
+            "Vì doanh nghiệp cần quan tâm đến hiệu quả và thành tích để duy trì hoạt động",
+            "Vì văn hóa này không phù hợp với nền kinh tế hiện đại"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584299061_9s7q8",
+        "text": "Tại sao GE lại là ví dụ điển hình cho văn hóa nguyên tắc?",
+        "answers": [
+            "GE khuyến khích các quyết định tự do và linh hoạt từ nhân viên",
+            "GE đưa ra các quyết định dựa vào quyền lực của lãnh đạo",
+            "GE hoạt động dựa trên sáng tạo cá nhân",
+            "GE quản lý chặt chẽ dựa trên hệ thống và hiệu quả công việc"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584289765_nq2yp",
+        "text": "Trong văn hóa tên lửa được định hướng, yếu tố nào giúp nhân viên có động lực làm việc?",
+        "answers": [
+            "Công việc luôn tạo ra thu nhập cao",
+            "Thời gian làm việc ngắn và linh hoạt",
+            "Không có quy tắc, nguyên tắc nào",
+            "Ý nghĩa lịch sử và tầm quan trọng của dự án"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584279618_wj5l0",
+        "text": "Vì sao văn hóa Eiffel lại được gọi là \"tháp\"?",
+        "answers": [
+            "Vì nó nhấn mạnh vào việc phân công theo cấp bậc",
+            "Vì nhân viên phải vượt qua nhiều \"nấc thang\" để thăng tiến",
+            "Vì tất cả các công ty đều phải có cấu trúc giống nhau",
+            "Vì hình thức công ty có dạng hình tháp thực tế"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584269779_pl7ex",
+        "text": "Loại hình văn hóa nào coi nhân viên như một phần trong gia đình và gắn bó trọn đời?",
+        "answers": [
+            "Văn hóa lò ấp trứng",
+            "Văn hóa Eiffel",
+            "Văn hóa tên lửa được định hướng",
+            "Văn hóa gia đình"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584260479_4h64z",
+        "text": "Làm thế nào để hình thành các quan niệm chung trong một doanh nghiệp?",
+        "answers": [
+            "Thực hiện các cuộc họp lớn để chia sẻ các ý tưởng mới",
+            "Trải qua quá trình hoạt động lâu dài và giải quyết các tình huống thực tiễn",
+            "Để doanh nghiệp tự phát triển mà không cần sự can thiệp của lãnh đạo",
+            "Thực hiện các quy trình thay đổi và cải cách liên tục"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584251989_v8m57",
+        "text": "Những giá trị được chấp nhận trong văn hóa doanh nghiệp thường được công bố như thế nào?",
+        "answers": [
+            "Thảo luận trong các cuộc họp hàng tháng của công ty",
+            "Được giữ bí mật và chỉ áp dụng trong một số tình huống",
+            "Công bố rộng rãi và tuân thủ bởi tất cả các thành viên trong doanh nghiệp",
+            "Tự động thay đổi theo thời gian mà không cần sự can thiệp của lãnh đạo"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584240260_inelh",
+        "text": "Tại sao những quan niệm chung trong văn hóa doanh nghiệp lại khó thay đổi?",
+        "answers": [
+            "Vì chúng không ảnh hưởng đến hành vi của nhân viên",
+            "Vì chúng được xây dựng qua thời gian, trải qua thử thách và thực tiễn",
+            "Vì chúng chỉ là các quy định hành chính của doanh nghiệp",
+            "Vì chúng chỉ phản ánh các luật lệ nội bộ doanh nghiệp"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584199701_5yaav",
+        "text": "Khi biểu trưng trực quan của văn hóa doanh nghiệp thay đổi, điều đó có thể phản ánh điều gì?",
+        "answers": [
+            "Doanh nghiệp đang tìm cách giữ vững các giá trị truyền thống",
+            "Doanh nghiệp đang giảm thiểu chi phí",
+            "Doanh nghiệp không còn quan tâm đến hình thức bên ngoài",
+            "Doanh nghiệp thích nghi với thay đổi môi trường kinh doanh"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584181294_t456z",
+        "text": "Làm thế nào để các nhân viên trong doanh nghiệp duy trì và củng cố các giá trị văn hóa đã hình thành?",
+        "answers": [
+            "Tuân thủ các nguyên tắc, giá trị văn hóa được thừa nhận trong doanh nghiệp",
+            "Chỉ cần các lãnh đạo là người giỏi chuyên môn",
+            "Thực hiện các buổi lễ kỷ niệm hàng năm",
+            "Chỉ cần làm việc chăm chỉ là đủ"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584171911_mze4s",
+        "text": "Các biểu trưng trực quan của văn hóa doanh nghiệp dễ thay đổi là do yếu tố nào?",
+        "answers": [
+            "Chúng không phản ánh đúng thực tế hoạt động của doanh nghiệp",
+            "Chúng phụ thuộc vào ý thức hệ của các lãnh đạo",
+            "Chúng dễ thay đổi theo thời gian và xu hướng xã hội",
+            "Chúng chịu ảnh hưởng từ các yếu tố bên ngoài"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584161255_nd3px",
+        "text": "Biểu trưng trực quan của văn hóa doanh nghiệp thể hiện qua yếu tố nào sau đây?",
+        "answers": [
+            "Những câu chuyện và huyền thoại về doanh nghiệp",
+            "Cách nhân viên biểu lộ cảm xúc",
+            "Các buổi lễ kỷ niệm hàng năm",
+            "Tất cả các đáp án trên"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584153695_41cs4",
+        "text": "Những giá trị được chấp nhận trong văn hóa doanh nghiệp bao gồm?",
+        "answers": [
+            "Các yếu tố môi trường bên ngoài doanh nghiệp",
+            "Các chiến lược, mục tiêu, triết lý kinh doanh",
+            "Sự đổi mới sản phẩm",
+            "Sự hiểu biết của khách hàng"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584146070_ii958",
+        "text": "Lý do gì khiến văn hóa doanh nghiệp khó thay đổi trong giai đoạn chín muồi?",
+        "answers": [
+            "Vì môi trường bên ngoài thay đổi nhanh chóng",
+            "Vì các giá trị văn hóa đã trở thành niềm tự hào của các thành viên",
+            "Vì các giá trị văn hóa không còn được người lãnh đạo quan tâm",
+            "Vì doanh nghiệp không có kế hoạch thay đổi văn hóa"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584137150_1fl4q",
+        "text": "Tại sao giai đoạn chín muồi có thể dẫn đến nguy cơ suy thoái văn hóa doanh nghiệp?",
+        "answers": [
+            "Doanh nghiệp thiếu sự đổi mới trong các quy trình làm việc",
+            "Doanh nghiệp không chú trọng đến nhu cầu phát triển văn hóa mới",
+            "Doanh nghiệp không thể duy trì những giá trị văn hóa đã hình thành lâu dài",
+            "Các sản phẩm của doanh nghiệp đã trở nên lỗi thời và thị trường bão hòa"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584129829_n3gzw",
+        "text": "Các giá trị học hỏi từ doanh nghiệp khác ảnh hưởng đến văn hóa doanh nghiệp như thế nào?",
+        "answers": [
+            "Chỉ có thể thay đổi văn hóa doanh nghiệp khi có sự thay đổi lãnh đạo",
+            "Có thể thay đổi văn hóa doanh nghiệp nhưng cần được áp dụng một cách chọn lọc",
+            "Chúng chỉ làm phong phú thêm sản phẩm của công ty",
+            "Chúng không ảnh hưởng gì đến văn hóa doanh nghiệp"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584121864_xbh1z",
+        "text": "Văn hóa doanh nghiệp bị ảnh hưởng bởi các yếu tố bên ngoài như thế nào?",
+        "answers": [
+            "Chỉ bị ảnh hưởng bởi các thay đổi trong lãnh đạo",
+            "Không bị ảnh hưởng bởi các yếu tố bên ngoài",
+            "Chịu sự tác động từ các giá trị tích lũy được và xu hướng xã hội",
+            "Chỉ bị ảnh hưởng bởi các xu hướng xã hội"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584113258_cq7bw",
+        "text": "Nhân viên mới có thể mang đến điều gì cho văn hóa doanh nghiệp?",
+        "answers": [
+            "Tạo ra những điểm khác biệt có thể tích cực hoặc tiêu cực",
+            "Làm mất đi sự sáng tạo",
+            "Chỉ có ảnh hưởng tiêu cực",
+            "Tạo ra sự đồng nhất tuyệt đối"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584071668_3je7y",
+        "text": "Cách thức nào sau đây mà nhà lãnh đạo có thể sử dụng để phản chiếu tư tưởng và tính cách của mình trong doanh nghiệp?",
+        "answers": [
+            "Tránh tổ chức các sự kiện để không làm mất thời gian của nhân viên",
+            "Giữ khoảng cách và ít giao tiếp với nhân viên",
+            "Tăng cường tiếp xúc với nhân viên, sử dụng truyện kể, xây dựng chương trình lễ hội",
+            "Đặt ra những mục tiêu chung và không quan tâm đến nhân viên"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584062814_mbeft",
+        "text": "Văn hóa doanh nghiệp có thể thay đổi như thế nào khi có sự thay đổi lãnh đạo?",
+        "answers": [
+            "Văn hóa doanh nghiệp sẽ không thay đổi nếu không có sự thay đổi về công nghệ",
+            "Văn hóa doanh nghiệp chỉ thay đổi khi có sự thay đổi của toàn bộ nhân viên",
+            "Văn hóa doanh nghiệp sẽ thay đổi theo tầm nhìn, giá trị cốt lõi của lãnh đạo mới",
+            "Văn hóa doanh nghiệp sẽ không thay đổi vì lãnh đạo không ảnh hưởng lớn đến văn hóa"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584053967_g9tlx",
+        "text": "Vì sao lãnh đạo được xem là yếu tố quan trọng nhất trong việc xây dựng và phát triển văn hóa doanh nghiệp?",
+        "answers": [
+            "Vì lãnh đạo chỉ cần duy trì một môi trường làm việc ổn định",
+            "Vì lãnh đạo không cần phải giao tiếp với nhân viên",
+            "Vì lãnh đạo hiểu rõ văn hóa doanh nghiệp và phản ánh tư tưởng, tính cách qua các hoạt động",
+            "Vì lãnh đạo không ảnh hưởng nhiều đến văn hóa doanh nghiệp"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584046478_zx6rq",
+        "text": "Giai đoạn nào của văn hóa doanh nghiệp phụ thuộc vào nhà sáng lập và những quan niệm chung của họ?",
+        "answers": [
+            "Giai đoạn suy thoái",
+            "Giai đoạn non trẻ",
+            "Giai đoạn chín muồi",
+            "Giai đoạn giữa"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584037304_cijjb",
+        "text": "Trong văn hóa Việt Nam, đặc tính nào là một ưu thế nổi bật trong xây dựng văn hóa của doanh nghiệp?",
+        "answers": [
+            "Tinh thần cầu thị và ý chí phấn đấu tự lực, tự cường",
+            "Không dám đổi mới, đột phá",
+            "Thói quen thủ cựu và tôn sùng kinh nghiệm",
+            "Chỉ chú trọng vào cá nhân"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584027592_n4ry1",
+        "text": "Môi trường văn hóa doanh nghiệp mạnh mẽ sẽ ảnh hưởng như thế nào đến nhân viên trong doanh nghiệp?",
+        "answers": [
+            "Thúc đẩy tính tự lập và sáng tạo của nhân viên",
+            "Hạn chế sáng kiến của nhân viên ở cấp cơ sở",
+            "Khuyến khích nhân viên giảm bớt sáng tạo",
+            "Giới hạn sáng tạo để đảm bảo công việc không bị gián đoạn"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584017222_ew4x7",
+        "text": "Tại sao một doanh nghiệp không chỉ nên dựa vào mức lương cao để thu hút và duy trì nhân tài?",
+        "answers": [
+            "Vì lương không phải là yếu tố quan trọng nhất",
+            "Vì nhân viên còn cần môi trường thân thiện và cơ hội phát triển",
+            "Vì doanh nghiệp sẽ gặp khó khăn về tài chính",
+            "Vì lương cao không đảm bảo sự hài lòng về công việc"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775584008088_imilw",
+        "text": "Vai trò của phong cách riêng trong doanh nghiệp là gì?",
+        "answers": [
+            "Không có ảnh hưởng lớn đến doanh nghiệp",
+            "Chỉ tạo cảm giác thân thiện cho khách hàng",
+            "Chỉ ảnh hưởng đến các nhân viên cấp cao",
+            "Là yếu tố giúp phân biệt các doanh nghiệp"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775583997496_83gtm",
+        "text": "Tại sao văn hóa doanh nghiệp Việt Nam cần tiếp thu và phát huy những tinh hoa văn hóa trong kinh doanh của cha ông?",
+        "answers": [
+            "Để thay đổi hoàn toàn phương thức quản lý hiện tại",
+            "Để mở rộng thị trường quốc tế một cách nhanh chóng",
+            "Để kết hợp truyền thống với hiện đại, tạo bản sắc riêng biệt cho doanh nghiệp",
+            "Để giảm chi phí sản xuất và tăng lợi nhuận"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775583990164_uqil3",
+        "text": "Văn hóa doanh nghiệp còn được biết đến với các tên gọi khác nào sau đây?",
+        "answers": [
+            "Văn hóa nhóm, văn hóa cá nhân",
+            "Văn hóa sản xuất, văn hóa nhân viên",
+            "Văn hóa tổ chức, văn hóa kinh doanh",
+            "Văn hóa công ty, văn hóa quốc gia"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    }
+]

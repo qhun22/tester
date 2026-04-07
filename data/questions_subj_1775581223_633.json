@@ -1,0 +1,247 @@
+[
+    {
+        "id": "1775581883552_419tu",
+        "text": "Theo mô hình của Hofstede, những chiều văn hóa nào sau đây phản ánh cách xã hội ứng xử với rủi ro và sự thay đổi theo thời gian?",
+        "answers": [
+            "Nam tính (MAS)",
+            "Chủ nghĩa cá nhân (IDV)",
+            "Định hướng dài hạn (LTO)",
+            "Chỉ số né tránh sự không chắc chắn (UAI)"
+        ],
+        "correct": [
+            2,
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581862774_1jgfq",
+        "text": "Các mệnh đề sau đúng hay sai?\n\nVăn hóa cạnh tranh hướng tới kết quả và thị phần.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581853998_1v48e",
+        "text": "Các mệnh đề sau đúng hay sai?\n\nVăn hóa sáng tạo ít khuyến khích đổi mới và năng động.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581837668_e07ki",
+        "text": "Các mệnh đề sau đúng hay sai?\n\nVăn hóa kiểm soát nhấn mạnh sự sáng tạo và chấp nhận rủi ro.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581826338_n4ngt",
+        "text": "Các mệnh đề sau đúng hay sai?\n\nVăn hóa hợp tác chú trọng yếu tố con người và tính gắn kết.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581815187_hymem",
+        "text": "Trong mô hình văn hóa của Trompenaars, chiều nào đề cập đến cách con người bộc lộ hoặc kiềm chế cảm xúc trong giao tiếp?",
+        "answers": [
+            "Thái độ với thời gian",
+            "Trung lập – cảm xúc",
+            "Thành tích – quy gán",
+            "Đặc trưng – phổ biến"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581777948_4riot",
+        "text": "[Điền từ vào chỗ trống] Cấp độ đầu tiên trong mô hình văn hóa doanh nghiệp của Edgar Schein là những tạo tác có thể nhìn thấy và cảm nhận rõ rệt, còn gọi là ________.",
+        "answers": [
+            "Niềm tin ngầm định",
+            "Biểu hiện hữu hình của doanh nghiệp",
+            "Những giá trị được tuyên bố",
+            "Hệ tư tưởng tổ chức"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581748681_4ipym",
+        "text": "Mô hình văn hóa doanh nghiệp của Edgar Schein giúp nhà lãnh đạo nhận diện điều gì trong tổ chức?",
+        "answers": [
+            "Các quy định hành chính và cơ cấu tổ chức của doanh nghiệp",
+            "Các yếu tố kỹ thuật và công nghệ then chốt của doanh nghiệp",
+            "Các yếu tố thị trường và đối thủ cạnh tranh",
+            "Các yếu tố văn hóa từ bề mặt đến cốt lõi của doanh nghiệp"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581644563_g7v6f",
+        "text": "Các công ty sử dụng công cụ OCAI để đánh giá văn hóa doanh nghiệp nhằm mục đích gì?",
+        "answers": [
+            "Để loại bỏ hoàn toàn các khung văn hóa phụ",
+            "Để duy trì và không thay đổi bất kỳ khung văn hóa nào",
+            "Để phát hiện sự khác biệt giữa mô hình văn hóa hiện tại và mô hình mong muốn, từ đó điều chỉnh để phù hợp",
+            "Để xác định chính xác loại văn hóa doanh nghiệp duy nhất mà họ cần áp dụng"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581631947_xmjbn",
+        "text": "Văn hóa thứ bậc (Hierarchy Culture) thường ưu tiên yếu tố gì trong việc duy trì hiệu quả công việc?",
+        "answers": [
+            "Thị phần và cạnh tranh mạnh mẽ trong ngành",
+            "Kiểm soát chặt chẽ và tuân thủ quy trình công việc",
+            "Tập trung vào sự phát triển con người và xây dựng đội ngũ",
+            "Tính sáng tạo và đổi mới liên tục"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581622003_4ml36",
+        "text": "Văn hóa hợp tác (Clan Culture) nhấn mạnh vào yếu tố nào để xây dựng một môi trường làm việc hiệu quả?",
+        "answers": [
+            "Tuân thủ quy trình và nguyên tắc một cách nghiêm ngặt",
+            "Kết quả lâu dài và tầm nhìn chiến lược",
+            "Tạo ra lợi thế cạnh tranh và dẫn đầu thị trường",
+            "Sự chia sẻ, trung thành và tính đồng đội"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581613691_699v5",
+        "text": "Văn hóa sáng tạo (Adhocracy Culture) tập trung vào yếu tố nào như là giá trị cốt lõi?",
+        "answers": [
+            "Đảm bảo và tiên đoán",
+            "Trung thành và đồng đội",
+            "Kết quả lâu dài và sáng tạo",
+            "Quy trình và hiệu quả"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581606217_urx97",
+        "text": "Đặc điểm của phương diện \"Thành tích\" trong công trình nghiên cứu văn hóa của Trompenaars là gì?",
+        "answers": [
+            "Tôn trọng cấp trên dựa vào sự tận tụy",
+            "Dùng tên chức vụ để thể hiện địa vị trong tổ chức",
+            "Tôn trọng cấp trên dựa trên tuổi tác",
+            "Tôn trọng cấp trên dựa trên hiệu quả công việc và kiến thức"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581598281_4ywwf",
+        "text": "Phương diện \"Trung lập\" trong công trình nghiên cứu văn hóa của Trompenaars có đặc điểm gì?",
+        "answers": [
+            "Sự xúc động kiềm chế và hiếm khi bộc lộ",
+            "Đối mặt với căng thẳng bằng sự nhiệt huyết",
+            "Sự tự do thể hiện cảm xúc",
+            "Cảm xúc bộc lộ dễ dàng"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581587915_tqh1d",
+        "text": "Chiều văn hóa nào của Hofstede chỉ ra mức độ kết nối giữa các cá nhân trong xã hội?",
+        "answers": [
+            "Nam tính (MAS)",
+            "Chủ nghĩa cá nhân (IDV)",
+            "Định hướng dài hạn (LTO)",
+            "Khoảng cách quyền lực (PDI)"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581576307_qvry1",
+        "text": "Trong văn hóa doanh nghiệp của Schein, giá trị được tuyên bố có vai trò gì đối với hành vi của nhân viên?",
+        "answers": [
+            "Là những quy định cứng nhắc mà nhân viên phải tuân theo",
+            "Là kim chỉ nam giúp định hướng hành vi của nhân viên",
+            "Là những yếu tố hữu hình dễ nhận biết trong tổ chức",
+            "Là những yếu tố ngầm định, không cần truyền đạt đến nhân viên"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581567541_52307",
+        "text": "Theo mô hình của Schein, nếu cấp độ 1 và cấp độ 2 không phù hợp với nhau, điều này có thể gây ra vấn đề gì cho văn hóa doanh nghiệp?",
+        "answers": [
+            "Làm tăng hiệu suất làm việc của nhân viên",
+            "Khiến cấp độ 3 dễ thay đổi hơn",
+            "Gây ra sự hiểu nhầm và mâu thuẫn trong tổ chức",
+            "Không gây ra vấn đề gì vì mỗi cấp độ hoạt động độc lập"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581539517_5qzed",
+        "text": "Mô hình nghiên cứu của Schein sử dụng bao nhiêu cấp độ chính để đánh giá văn hóa doanh nghiệp?",
+        "answers": [
+            "Hai cấp độ",
+            "Một cấp độ",
+            "Bốn cấp độ",
+            "Ba cấp độ"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    }
+]

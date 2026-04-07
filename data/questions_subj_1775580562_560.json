@@ -1,0 +1,257 @@
+[
+    {
+        "id": "1775581160132_4ylh6",
+        "text": "Những kinh nghiệm tập thể của doanh nghiệp có vai trò như thế nào đối với việc hình thành văn hóa doanh nghiệp?",
+        "answers": [
+            "Góp phần nâng cao hiệu suất làm việc và cải thiện quan hệ nội bộ.",
+            "Giúp doanh nghiệp rút ra bài học chung trong xử lý các vấn đề.",
+            "Làm suy giảm tính thống nhất của văn hóa doanh nghiệp.",
+            "Tạo nên sự khác biệt văn hóa giữa các doanh nghiệp cùng ngành."
+        ],
+        "correct": [
+            1,
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581125245_ca5zo",
+        "text": "Mệnh đề sau Đúng hay Sai?\n\nViệc lãnh đạo thiếu giao tiếp với nhân viên có thể làm suy yếu văn hóa doanh nghiệp.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581115448_wvk3o",
+        "text": "Mệnh đề sau Đúng hay Sai?\n\nKhi doanh nghiệp thay đổi lãnh đạo, văn hóa doanh nghiệp có thể thay đổi theo, phản ánh tư tưởng và phong cách của lãnh đạo mới.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581101555_xfctq",
+        "text": "Mệnh đề sau Đúng hay Sai?\n\nChính sách \"để ngỏ nguyên liệu trong phòng thí nghiệm\" của HP thể hiện niềm tin và sự khích lệ tự học, tự sáng tạo của nhân viên.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581094813_2dyxc",
+        "text": "Mệnh đề sau Đúng hay Sai?\n\nMôi trường văn hóa mạnh mẽ trong doanh nghiệp giúp cá nhân phát huy tính tự lập và chủ động trong đề xuất sáng kiến.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581086269_9d6vg",
+        "text": "Mệnh đề sau Đúng hay Sai?\n\nVăn hóa doanh nghiệp chỉ khuyến khích sáng tạo ở bộ phận lãnh đạo, còn nhân viên cấp thấp cần tuân thủ tuyệt đối.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581076361_t2x8m",
+        "text": "Mệnh đề sau Đúng hay Sai?\n\nViệc khuyến khích sáng tạo giúp tăng sự gắn bó lâu dài của nhân viên với doanh nghiệp.",
+        "answers": [
+            "Đúng",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
+        "id": "1775581051492_idjvi",
+        "text": "Những yếu tố nào cấu thành nên văn hóa doanh nghiệp và tạo nên phong cách riêng của doanh nghiệp?",
+        "answers": [
+            "Triết lý kinh doanh, tập tục, nghi lễ, thói quen, truyền thuyết, huyền thoại",
+            "Lợi nhuận, doanh thu và mức độ cạnh tranh trên thị trường",
+            "Quy mô nhân sự, mạng lưới khách hàng và đối tác",
+            "Cơ cấu tổ chức, chiến lược marketing, chính sách tài chính"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775581028794_15r0w",
+        "text": "Vì sao văn hóa doanh nghiệp được coi là công cụ quản lý quan trọng trong bối cảnh toàn cầu hóa?",
+        "answers": [
+            "Vì văn hóa doanh nghiệp thay thế được chiến lược kinh doanh.",
+            "Vì nó tác động mạnh mẽ đến tình cảm, lý trí và hành vi của thành viên, góp phần xây dựng thương hiệu và tăng sức mạnh tổ chức.",
+            "Vì văn hóa doanh nghiệp chủ yếu giúp doanh nghiệp thích nghi với các quy định pháp lý quốc tế.",
+            "Vì văn hóa doanh nghiệp chỉ thể hiện hình thức bên ngoài và truyền thống lâu đời của doanh nghiệp."
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580884282_f5z4d",
+        "text": "Các giá trị học hỏi từ doanh nghiệp khác ảnh hưởng đến văn hóa doanh nghiệp như thế nào?",
+        "answers": [
+            "Có thể thay đổi văn hóa doanh nghiệp nhưng cần được áp dụng một cách chọn lọc",
+            "Chúng chỉ làm phong phú thêm sản phẩm của công ty",
+            "Chúng không ảnh hưởng gì đến văn hóa doanh nghiệp",
+            "Chỉ có thể thay đổi văn hóa doanh nghiệp khi có sự thay đổi lãnh đạo"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580867100_e0pqd",
+        "text": "Kinh nghiệm tập thể trong doanh nghiệp có tác động như thế nào đến văn hóa doanh nghiệp?",
+        "answers": [
+            "Giúp nâng cao hiệu suất công việc và cải thiện các mối quan hệ trong tập thể",
+            "Chỉ giúp đào tạo nhân viên mới",
+            "Không có tác động gì đến văn hóa doanh nghiệp",
+            "Chỉ giúp cải thiện hiệu suất công việc mà không ảnh hưởng đến văn hóa"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580845325_0u3lb",
+        "text": "Văn hóa doanh nghiệp bị ảnh hưởng bởi các yếu tố bên ngoài như thế nào?",
+        "answers": [
+            "Chỉ bị ảnh hưởng bởi các thay đổi trong lãnh đạo",
+            "Không bị ảnh hưởng bởi các yếu tố bên ngoài",
+            "Chỉ bị ảnh hưởng bởi các xu hướng xã hội",
+            "Chịu sự tác động từ các giá trị tích lũy được và xu hướng xã hội"
+        ],
+        "correct": [
+            3
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580827379_oexmt",
+        "text": "Yếu tố nào được cho là quan trọng nhất tác động đến văn hóa doanh nghiệp?",
+        "answers": [
+            "Người lãnh đạo",
+            "Ảnh hưởng từ văn hóa bên ngoài",
+            "Mối quan hệ giữa các nhân viên",
+            "Văn hóa dân tộc"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580805441_3atox",
+        "text": "Đặc tính nào sau đây có thể là một khó khăn trong xây dựng văn hóa doanh nghiệp tại Việt Nam?",
+        "answers": [
+            "Môi trường văn hóa không có sự ảnh hưởng từ các yếu tố dân tộc",
+            "Thái độ quá cởi mở và dễ dàng thích nghi với cái mới",
+            "Thói quen thủ cựu và tôn sùng kinh nghiệm, thiếu sự đổi mới",
+            "Sự thay đổi nhanh chóng và liên tục của các giá trị văn hóa dân tộc"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580787134_9unt6",
+        "text": "Văn hóa doanh nghiệp có vai trò gì nâng cao sức cạnh tranh của doanh nghiệp?",
+        "answers": [
+            "Giúp tăng lương cho nhân viên",
+            "Tạo môi trường làm việc tích cực, gắn kết, khích lệ sáng tạo",
+            "Giảm áp lực công việc cho nhân viên",
+            "Tạo sự cạnh tranh nội bộ giữa các nhân viên"
+        ],
+        "correct": [
+            1
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580765867_cqqh0",
+        "text": "Tại sao một doanh nghiệp không chỉ nên dựa vào mức lương cao để thu hút và duy trì nhân tài?",
+        "answers": [
+            "Vì lương không phải là yếu tố quan trọng nhất",
+            "Vì lương cao không đảm bảo sự hài lòng về công việc",
+            "Vì nhân viên còn cần môi trường thân thiện và cơ hội phát triển",
+            "Vì doanh nghiệp sẽ gặp khó khăn về tài chính"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580747980_857e0",
+        "text": "Theo Maslow, nhu cầu nào nằm ở mức cao nhất trong hệ thống nhu cầu của con người?",
+        "answers": [
+            "Nhu cầu an ninh",
+            "Nhu cầu sinh lý",
+            "Nhu cầu tự khẳng định mình",
+            "Nhu cầu xã hội – giao tiếp"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580722531_epms3",
+        "text": "Vì sao văn hóa doanh nghiệp được coi là công cụ quản lý quan trọng trong xây dựng thương hiệu?",
+        "answers": [
+            "Vì nó làm giảm chi phí vận hành của doanh nghiệp",
+            "Vì nó cung cấp hướng dẫn chi tiết về sản phẩm",
+            "Vì nó giúp thiết lập hệ thống giá trị và niềm tin của các thành viên",
+            "Vì nó tăng cường số lượng nhân viên trong tổ chức"
+        ],
+        "correct": [
+            2
+        ],
+        "type": "multiple_choice"
+    },
+    {
+        "id": "1775580701629_luxqu",
+        "text": "Văn hóa doanh nghiệp còn được biết đến với các tên gọi khác nào sau đây?",
+        "answers": [
+            "Văn hóa tổ chức, văn hóa kinh doanh",
+            "Văn hóa nhóm, văn hóa cá nhân",
+            "Văn hóa sản xuất, văn hóa nhân viên",
+            "Văn hóa công ty, văn hóa quốc gia"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "multiple_choice"
+    }
+]
