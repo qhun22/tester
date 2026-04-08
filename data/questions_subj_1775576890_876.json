@@ -23,6 +23,18 @@
         ]
     },
     {
+        "id": "1775579344155_pvet3",
+        "text": "Hãy xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nCác biểu trưng trực quan khó nhận biết ngay khi tiếp xúc với doanh nghiệp.",
+        "answers": [
+            "Dung",
+            "Sai"
+        ],
+        "correct": [
+            0
+        ],
+        "type": "true_false"
+    },
+    {
         "id": "1775579337635_bjoj2",
         "text": "Hãy xác định Đúng hay Sai cho các mệnh đề sau về biểu trưng trực quan của văn hóa doanh nghiệp:\n\nBiểu trưng trực quan có thể thay đổi theo đặc điểm ngành nghề kinh doanh và quan điểm lãnh đạo.",
         "answers": [
