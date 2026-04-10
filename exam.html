@@ -674,6 +674,7 @@ if ('scrollRestoration' in history) {
 let totalQ = 0;
 let subjectId = '';
 let subjectName = '';
+let examMode = 'submit';
 const userAnswers = {};
 const flaggedQuestions = new Set();
 let submitted = false;
@@ -682,6 +683,7 @@ let currentDesktopQuestion = 0;
 let timerInterval = null;
 let seconds = 0;
 const labels = ['A','B','C','D','E','F','G','H'];
+const MODE_STORAGE_KEY = 'exam_mode';
 
 /* ================================================================
    SHUFFLE (port from PHP)
@@ -755,6 +757,20 @@ function escapeHtml(str) {
     return d.innerHTML;
 }
 
+function getModeLabel(mode) {
+    return mode === 'instant' ? 'Vừa làm vừa hiện đáp án' : 'Làm hết rồi nộp mới hiện';
+}
+
+function isInstantMode() {
+    return examMode === 'instant';
+}
+
+function setModeInfo() {
+    const info = document.getElementById('questionCountInfo');
+    if (!info) return;
+    info.textContent = totalQ + ' câu hỏi | Chế độ: ' + getModeLabel(examMode);
+}
+
 /* ================================================================
    INIT: Load data and render
    ================================================================ */
@@ -762,6 +778,15 @@ function escapeHtml(str) {
     // Parse subject from URL
     const params = new URLSearchParams(window.location.search);
     subjectId = params.get('subject') || '';
+    const paramMode = params.get('mode');
+    if (paramMode === 'instant' || paramMode === 'submit') {
+        examMode = paramMode;
+        try { localStorage.setItem(MODE_STORAGE_KEY, examMode); } catch(e) {}
+    } else {
+        let saved = 'submit';
+        try { saved = localStorage.getItem(MODE_STORAGE_KEY) || 'submit'; } catch(e) {}
+        examMode = saved === 'instant' ? 'instant' : 'submit';
+    }
 
     if (!subjectId || !/^subj_\d+_\d+$/.test(subjectId)) {
         window.location.href = 'index.html';
@@ -793,9 +818,9 @@ function escapeHtml(str) {
         // Update page
         document.title = subjectName + ' - Làm bài';
         document.getElementById('examTitle').textContent = subjectName;
-        document.getElementById('questionCountInfo').textContent = totalQ + ' câu hỏi';
+        setModeInfo();
         document.getElementById('desktopBrandName').textContent = subjectName;
-        document.getElementById('desktopBrandCount').textContent = totalQ + ' câu hỏi';
+        document.getElementById('desktopBrandCount').textContent = totalQ + ' câu hỏi | ' + getModeLabel(examMode);
 
         renderExam(questions);
         startTimer();
@@ -910,11 +935,15 @@ function selectAnswer(el, qi, ai) {
     if (!userAnswers[qi]) userAnswers[qi] = [];
 
     if (isMulti) {
+        const numCorrect = parseInt(card.dataset.numCorrect || '1', 10);
         const idx = userAnswers[qi].indexOf(ai);
         if (idx > -1) {
             userAnswers[qi].splice(idx, 1);
             el.classList.remove('selected');
         } else {
+            if (userAnswers[qi].length >= numCorrect) {
+                 return; // Prevent selecting more than allowed
+            }
             userAnswers[qi].push(ai);
             el.classList.add('selected');
         }
@@ -924,7 +953,45 @@ function selectAnswer(el, qi, ai) {
         userAnswers[qi] = [ai];
     }
 
+    if (isInstantMode()) {
+        applyInstantMcqFeedback(card, qi);
+    }
+
     updateDesktopExamState();
+}
+
+function applyInstantMcqFeedback(card, qi) {
+    const correct = JSON.parse(card.dataset.correct);
+    const userAns = userAnswers[qi] || [];
+    const isMulti = card.dataset.multi === '1';
+    const numCorrect = parseInt(card.dataset.numCorrect || '1', 10);
+
+    if (isMulti && userAns.length < numCorrect) {
+        card.querySelectorAll('.q-opt').forEach(opt => {
+            opt.classList.remove('correct', 'wrong');
+        });
+        return;
+    }
+
+    card.querySelectorAll('.q-opt').forEach(opt => {
+        const ai = parseInt(opt.dataset.ai, 10);
+        opt.classList.remove('correct', 'wrong');
+        if (correct.includes(ai)) opt.classList.add('correct');
+        if (userAns.includes(ai) && !correct.includes(ai)) opt.classList.add('wrong');
+    });
+}
+
+function revealMcqAnswer(card, qi) {
+    const correct = JSON.parse(card.dataset.correct);
+    const userAns = userAnswers[qi] || [];
+
+    card.querySelectorAll('.q-opt').forEach(opt => {
+        const ai = parseInt(opt.dataset.ai, 10);
+        opt.classList.remove('selected');
+        if (correct.includes(ai)) opt.classList.add('correct');
+        if (userAns.includes(ai) && !correct.includes(ai)) opt.classList.add('wrong');
+        opt.style.pointerEvents = 'none';
+    });
 }
 
 /* ================================================================
@@ -985,8 +1052,9 @@ function submitExam() {
 
             const req = correctMatches.length;
             const ans = (userMatches || []).filter(v => v !== -1 && v !== undefined).length;
-            if (ans < req) {
+            if (ans < req && !card.querySelector('.warn-unanswered')) {
                 const warning = document.createElement('div');
+                warning.className = 'warn-unanswered';
                 warning.textContent = 'Bạn chưa hoàn thành câu này!';
                 warning.style.cssText = 'color: #dc2626; font-size: 14px; font-weight: 700; background: #fef2f2; padding: 10px 14px; border-radius: 12px; margin-top: 12px; border: 1.5px solid #fecaca; display: inline-block;';
                 card.appendChild(warning);
@@ -1000,22 +1068,15 @@ function submitExam() {
         const userAns = userAnswers[qi] || [];
         const isCorrectAnswer = arraysEqual(userAns, correct);
 
-        if (userAns.length === 0) {
+        if (userAns.length === 0 && !card.querySelector('.warn-unanswered')) {
             const warning = document.createElement('div');
+            warning.className = 'warn-unanswered';
             warning.textContent = 'Bạn chưa chọn đáp án!';
             warning.style.cssText = 'color: #dc2626; font-size: 14px; font-weight: 700; background: #fef2f2; padding: 10px 14px; border-radius: 12px; margin-top: 16px; border: 1.5px solid #fecaca; display: inline-block;';
             card.appendChild(warning);
         }
 
-        card.querySelectorAll('.q-opt').forEach(opt => {
-            const ai = parseInt(opt.dataset.ai);
-            if (correct.includes(ai)) {
-                opt.classList.add('correct');
-            }
-            if (userAns.includes(ai) && !correct.includes(ai)) {
-                opt.classList.add('wrong');
-            }
-        });
+        revealMcqAnswer(card, qi);
 
         if (isCorrectAnswer) {
             correctCount++;
@@ -1216,6 +1277,19 @@ function updateDdAnswers(qi) {
         matches.push(z.dataset.placedOpt !== '' ? parseInt(z.dataset.placedOpt) : -1);
     });
     userAnswers[qi] = matches;
+
+    if (isInstantMode()) {
+        const correctMatches = JSON.parse(card.dataset.correctMatches);
+        zones.forEach((zone, si) => {
+            const userOpt = matches[si];
+            const correctOpt = correctMatches[si];
+            zone.classList.remove('correct', 'wrong');
+            if (userOpt === -1 || userOpt === undefined) return;
+            if (userOpt === correctOpt) zone.classList.add('correct');
+            else zone.classList.add('wrong');
+        });
+    }
+
     updateDesktopExamState();
 }
 </script>
