@@ -929,13 +929,13 @@ function toggleFlag(qi) {
 function selectAnswer(el, qi, ai) {
     if (submitted) return;
     const card = el.closest('.q-card');
-    if (card.dataset.type === 'drag_drop') return;
-    const isMulti = card.dataset.multi === '1';
+    if (card.getAttribute('data-type') === 'drag_drop') return;
+    const isMulti = card.getAttribute('data-multi') === '1';
 
     if (!userAnswers[qi]) userAnswers[qi] = [];
 
     if (isMulti) {
-        const numCorrect = parseInt(card.dataset.numCorrect || '1', 10);
+        const numCorrect = parseInt(card.getAttribute('data-num-correct') || '1', 10);
         const idx = userAnswers[qi].indexOf(ai);
         if (idx > -1) {
             userAnswers[qi].splice(idx, 1);
@@ -961,10 +961,10 @@ function selectAnswer(el, qi, ai) {
 }
 
 function applyInstantMcqFeedback(card, qi) {
-    const correct = JSON.parse(card.dataset.correct);
+    const correct = JSON.parse(card.getAttribute('data-correct'));
     const userAns = userAnswers[qi] || [];
-    const isMulti = card.dataset.multi === '1';
-    const numCorrect = parseInt(card.dataset.numCorrect || '1', 10);
+    const isMulti = card.getAttribute('data-multi') === '1';
+    const numCorrect = parseInt(card.getAttribute('data-num-correct') || '1', 10);
 
     if (isMulti && userAns.length < numCorrect) {
         card.querySelectorAll('.q-opt').forEach(opt => {
@@ -974,7 +974,7 @@ function applyInstantMcqFeedback(card, qi) {
     }
 
     card.querySelectorAll('.q-opt').forEach(opt => {
-        const ai = parseInt(opt.dataset.ai, 10);
+        const ai = parseInt(opt.getAttribute('data-ai'), 10);
         opt.classList.remove('correct', 'wrong');
         if (correct.includes(ai)) opt.classList.add('correct');
         if (userAns.includes(ai) && !correct.includes(ai)) opt.classList.add('wrong');
@@ -982,11 +982,11 @@ function applyInstantMcqFeedback(card, qi) {
 }
 
 function revealMcqAnswer(card, qi) {
-    const correct = JSON.parse(card.dataset.correct);
+    const correct = JSON.parse(card.getAttribute('data-correct'));
     const userAns = userAnswers[qi] || [];
 
     card.querySelectorAll('.q-opt').forEach(opt => {
-        const ai = parseInt(opt.dataset.ai, 10);
+        const ai = parseInt(opt.getAttribute('data-ai'), 10);
         opt.classList.remove('selected');
         if (correct.includes(ai)) opt.classList.add('correct');
         if (userAns.includes(ai) && !correct.includes(ai)) opt.classList.add('wrong');
